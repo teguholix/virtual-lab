@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
-<widget id="com.virtuallab.dewi" version="1.0.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.virtuallab.dewi" version="2.0.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
 	<name>Virtual Lab</name>
 	<description>Virtal Lab</description>
 	<author>Dewi Murni</author>
@@ -24,6 +24,7 @@
 
 	<plugin name="cordova-custom-config" />
 	<plugin name="cordova-plugin-file" />
+	<plugin name="cordova-plugin-inappbrowser" />
 	<plugin name="cordova-plugin-statusbar" />
 	<plugin name="cordova-plugin-whitelist" />
 	<plugin name="cordova-plugin-wkwebview-engine" />
