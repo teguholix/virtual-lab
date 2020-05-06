@@ -19695,8 +19695,8 @@ cr.behaviors.Pin = function(runtime)
 cr.getObjectRefTable = function () { return [
 	cr.plugins_.Browser,
 	cr.plugins_.Touch,
-	cr.plugins_.Text,
 	cr.plugins_.Sprite,
+	cr.plugins_.Text,
 	cr.behaviors.DragnDrop,
 	cr.behaviors.Pin,
 	cr.system_object.prototype.cnds.OnLayoutStart,
